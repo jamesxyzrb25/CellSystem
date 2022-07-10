@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CrudAbx</string>
+    <string name="register_celular">Registrar Celular</string>
+    <string name="dialog_title_delete">¿Eliminar celular?</string>
+    <string name="dialog_ok">Eliminar</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="message_write_database_success">Operacion exitosa</string>
+    <string name="message_write_database_error">Error al modificar la base de datos</string>
+    <string name="key_id">k_id</string>
+    <string name="key_nroimei">k_nroimei</string>
+    <string name="key_nrocel">k_nrocel</string>
+    <string name="dialog_title_add">Celular Registrado</string>
+    <string name="dialog_ok_add">Limpiar</string>
+    <string name="dialog_cancel_add">Cancelar</string>
+    <string name="help_required">Obligatorio</string>
+    <string name="format_imei_required">Formato incorrecto de IMEI</string>
+    <string name="format_numcel_required">Formato incorrecto de numero celular</string>
+    <string name="profile_error_no_resolve">No se encontro app compatible</string>
+    <string name="title_form_celular">Formulario Celular</string>
+    <string name="title_detail_celular">Detalle Celulares</string>
+</resources>
